@@ -16,4 +16,4 @@
 
 # 文档
 
-本项目提供[Git规范文档](./guide/git)和[API接口文档](./guide/api)
+本项目提供[Git规范文档](./guide/git.md)和[API接口文档](./guide/api.md)
